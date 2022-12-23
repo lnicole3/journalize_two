@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "journ2",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "database": "journ2_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "database": "journ2_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

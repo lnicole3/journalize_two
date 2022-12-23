@@ -1,0 +1,24 @@
+{
+  "name": "journalize_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnicole3/journalize_two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnicole3/journalize_two/issues"
+  },
+  "homepage": "https://github.com/lnicole3/journalize_two#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "sequelize": "^6.28.0"
+  }
+}
